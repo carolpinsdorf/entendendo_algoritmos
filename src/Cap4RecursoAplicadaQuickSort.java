@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Capitulo4 {
+public class Cap4RecursoAplicadaQuickSort {
 
     //--------------------------------------------------------------------------------------------------------
     // Capitulo 4 - RECURSAO

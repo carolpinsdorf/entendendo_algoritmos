@@ -1,4 +1,4 @@
-public class Capitulo3 {
+public class Cap3ConceitoRecursao {
 
     //--------------------------------------------------------------------------------------------------------
     // Capitulo 3 - Recursao (conceito) -> dividir um problema em partes menores e resolve-lo até chegar

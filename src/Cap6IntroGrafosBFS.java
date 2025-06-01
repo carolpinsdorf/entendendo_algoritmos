@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Capitulo6 {
+public class Cap6IntroGrafosBFS {
 
     //-------------------------------------------------------------------------------------------------------
     // Capitulo 6 - Grafos e BFS (pesquisa em largura)
@@ -13,10 +13,9 @@ public class Capitulo6 {
     // BFS - Pesquisa em largura -> verifica se há um caminho, se sim: qual é o mínimo caminho possivel
     // 1. criar uma fila que ira conter os vertices do grafo, para controlar a ordem
     // 2. crie um conjunto de visitados para evitar ciclos
-    // 2. desenfilere o vertice e faça a verificação que for necessária
-    //    percorra a lista de vizinhos
-    // 3. caso nao sejam nulos, add seus vizinhos na fila
-    // 4. faça isso até que a fila estejas vazia
+    // 3. desenfilere o vertice e faça a verificação que for necessária
+    // 4. percorra a lista de vizinhos, e se nao foram visitados, coloque na lista e coloque em "visitados"
+    // 5. faça isso até que a fila estejas vazia
 
     // classe implementada para facilitar o codigo
     class Pessoa {

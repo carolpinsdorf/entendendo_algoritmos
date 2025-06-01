@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Capitulo5 {
+public class Cap5ConceitoTabelasHash {
 
     //-------------------------------------------------------------------------------------------------------
     // Capitulo 5 - Tabelas Hash (hashtables, hashmaps, dicionarios)

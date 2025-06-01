@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Capitulo2 {
+public class Cap2OrdenacaoSelecao {
 
     //--------------------------------------------------------------------------------------------------------
     // Capitulo 2 - ORDENACAO POR SELECAO

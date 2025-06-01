@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Capitulo1 {
+public class Cap1PesquisaBinaria {
 
     //--------------------------------------------------------------------------------------------------------
     // Capitulo 1 - PESQUISA BINÁRIA
